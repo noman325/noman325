@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Abdullah AL Noman
 #### CodeyByNoman
 
-
-use in your profile.Passionate Flutter Developer with a strong foundation in app development and software engineering. Skilled in Flutter, Dart, and API integration, with hands-on experience in building responsive, high-performance apps and delivering clean, scalable, and user-friendly solutions.
+Passionate Flutter Developer with a strong foundation in app development and software engineering. Skilled in Flutter, Dart, and API integration, with hands-on experience in building responsive, high-performance apps and delivering clean, scalable, and user-friendly solutions.
 
 Skills: Dart / Flutter / API / Provaider
 
